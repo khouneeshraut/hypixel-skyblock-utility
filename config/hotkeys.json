@@ -1,0 +1,10 @@
+{
+  "hotkeys": {
+    "toggle_window": "<alt>+<shift>+h",
+    "autoclicker_start": "<alt>+a",
+    "autoclicker_stop": "<alt>+s",
+    "macro_start": "<alt>+m",
+    "macro_stop": "<alt>+n",
+    "emergency_stop": "<esc>"
+  }
+}

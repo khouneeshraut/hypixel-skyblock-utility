@@ -1,0 +1,24 @@
+{
+  "app_name": "Hypixel SkyBlock Utility",
+  "version": "0.1.0",
+  "theme": "dark",
+  "window": {
+    "width": 1200,
+    "height": 800,
+    "geometry": "default"
+  },
+  "autoclicker": {
+    "default_cps": 8,
+    "max_cps": 20,
+    "default_jitter": 0.1
+  },
+  "api": {
+    "cache_duration": 30,
+    "timeout": 10,
+    "retry_count": 3
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/app.log"
+  }
+}

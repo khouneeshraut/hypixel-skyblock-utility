@@ -1,0 +1,14 @@
+{
+  "filters": {
+    "min_profit": 5.0,
+    "min_volume": 100,
+    "max_price": 1000000,
+    "favorite_items": [
+      "WHEAT",
+      "POTATO",
+      "CARROT",
+      "SUGARCANE",
+      "MELON"
+    ]
+  }
+}
